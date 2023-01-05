@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "NetworkChecker",
+    "slug": "NetworkChecker",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "NetworkChecker"
+}
